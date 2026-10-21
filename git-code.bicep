@@ -4,6 +4,6 @@ rg_name = resourceGroup().name
 subscription_id = subscription().subscriptionId
 
 
-var Spokes_ResourceGroup = 'rg-spokes'
+var Spokes_ResourceGroup = 'spokes1'
 name = 'spokes1'
 rg_name = resourceGroup().name
