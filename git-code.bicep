@@ -7,3 +7,7 @@ subscription_id = subscription().subscriptionId
 var Spokes_ResourceGroup = 'spokes1'
 name = 'spokes1'
 rg_name = resourceGroup().name
+
+
+Subscription_id = subscription().subscriptionId
+management_group_id = managementGroup().id
