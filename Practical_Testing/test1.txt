@@ -1,0 +1,3 @@
+Name = Aditya
+Surname = Rao
+Age = 20
