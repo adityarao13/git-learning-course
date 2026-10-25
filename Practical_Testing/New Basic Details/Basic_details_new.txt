@@ -5,3 +5,6 @@ Designation - Technical engineer
 Year of experience = 12 years
 comapany = IFI Tech solutions
 mob num - 123456789
+Status - single
+skills - AKS, Migration
+City - Mumbai
